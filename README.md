@@ -10,9 +10,5 @@ $ pip install pipenv
 
 $ pipenv install youtube_dl
 
-$ pipenv install beautifulsoup4
-
-$ pipenv install requests
-
 執行方式(在終端機輸入)：
 $ pipenv run python YTbug.py
